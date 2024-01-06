@@ -1,2 +1,2 @@
 # me-too-micro
-backup files for http://mysite.pratt.edu/~sadams86/
+a site originally hosted at http://mysite.pratt.edu/~sadams86/
